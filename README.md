@@ -1,2 +1,2 @@
 # DungeonGame
-Simple 2D Dungeon Game
+Simple 2D Dungeon Game in Java
